@@ -39,7 +39,7 @@ const playGame=(userChoice) =>{
         console.log("game was draw");
         msg.innerText="Game was a draw";
         msg.style.backgroundColor="black";
-    }
+    }//augvsayhjvhs
     else{
         let userWin=true;
         if (userChoice === "rock") {
